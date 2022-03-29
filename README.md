@@ -14,7 +14,7 @@ Discriminators in GAN learning helps to distinguish real images from generated. 
 
 Kernels without regularization / Kernels with regularization
 
-![image]()
+![image](example.png)
 
 ## Repository organization
 
